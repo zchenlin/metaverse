@@ -9220,7 +9220,7 @@ fieldset:disabled .btn {
 }
 
 .mb-2 {
-  font-family: "KaiTi";
+  font-family: "adobe-kaiti-std, sans-serif";
   margin-bottom: 0.5rem !important;
 }
 
@@ -36785,7 +36785,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 }
 
 .text_1 {
-  font-family: "KaiTi";
+  font-family: "adobe-kaiti-std, sans-serif";
   margin-left: 8px; 
   margin-right: 8px;
   font-size: 1rem !important;
